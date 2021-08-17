@@ -1,0 +1,110 @@
+{
+    "17": [
+        "PE-Ratio",
+        "Current value : 29.58",
+        "vsIndusrty 41.88%",
+        "vsHistory 71.04%"
+    ],
+    "18": [
+        "Forward-PE-Ratio",
+        "Current value : 27.15",
+        "vsIndusrty 36.52%",
+        "vsHistory 0%"
+    ],
+    "19": [
+        "PE-Ratio-without-NRI",
+        "Current value : 29.58",
+        "vsIndusrty 42.2%",
+        "vsHistory 71.04%"
+    ],
+    "20": [
+        "Price-to-Owner-Earnings",
+        "Current value : 28.76",
+        "vsIndusrty 43.08%",
+        "vsHistory 80.75%"
+    ],
+    "21": [
+        "PB-Ratio",
+        "Current value : 38.96",
+        "vsIndusrty 1.0499999999999972%",
+        "vsHistory 100%"
+    ],
+    "22": [
+        "PS-Ratio",
+        "Current value : 7.43",
+        "vsIndusrty 13.239999999999995%",
+        "vsHistory 87.48%"
+    ],
+    "23": [
+        "Price-to-Free-Cash-Flow",
+        "Current value : 27.19",
+        "vsIndusrty 41.65%",
+        "vsHistory 83.44%"
+    ],
+    "24": [
+        "Price-to-Operating-Cash-Flow",
+        "Current value : 24.66",
+        "vsIndusrty 36.49%",
+        "vsHistory 85.48%"
+    ],
+    "25": [
+        "EV-to-EBIT",
+        "Current value : 24.74",
+        "vsIndusrty 37.57%",
+        "vsHistory 74.26%"
+    ],
+    "26": [
+        "EV-to-EBITDA",
+        "Current value : 22.38",
+        "vsIndusrty 32.86%",
+        "vsHistory 77.17%"
+    ],
+    "27": [
+        "EV-to-Revenue",
+        "Current value : 7.4",
+        "vsIndusrty 13.730000000000004%",
+        "vsHistory 87.06%"
+    ],
+    "28": [
+        "PEG-Ratio",
+        "Current value : 4.55",
+        "vsIndusrty 22.680000000000007%",
+        "vsHistory 83.81%"
+    ],
+    "29": [
+        "Shiller-PE-Ratio",
+        "Current value : 55.34",
+        "vsIndusrty 25.900000000000006%",
+        "vsHistory 57.59%"
+    ],
+    "30": [
+        "Current-Ratio",
+        "Current value : 1.06",
+        "vsIndusrty 10.819999999999993%",
+        "vsHistory 97.49%"
+    ],
+    "31": [
+        "Quick-Ratio",
+        "Current value : 1.01",
+        "vsIndusrty 27.299999999999997%",
+        "vsHistory 98.34%"
+    ],
+    "32": [
+        "Days-Inventory",
+        "Current value : 8.34",
+        "vsIndusrty 98.24%",
+        "vsHistory 77.44%"
+    ],
+    "33": [
+        "Days-Sales-Outstanding",
+        "Current value : 20.41",
+        "vsIndusrty 96.6%",
+        "vsHistory 85.22%"
+    ],
+    "34": [
+        "Days-Payable",
+        "Current value : 79.13",
+        "vsIndusrty 60.61%",
+        "vsHistory 88.39%"
+    ]
+}

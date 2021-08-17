@@ -1,0 +1,55 @@
+{
+    "0": [
+        "Cash-To-Debt",
+        "Current value : 0.51",
+        "vsIndusrty 25.019999999999996%",
+        "vsHistory 100%"
+    ],
+    "1": [
+        "Equity-to-Asset",
+        "Current value : 0.2",
+        "vsIndusrty 8.030000000000001%",
+        "vsHistory 98.04%"
+    ],
+    "2": [
+        "Debt-to-Equity",
+        "Current value : 1.9",
+        "vsIndusrty 5.359999999999999%",
+        "vsHistory 100%"
+    ],
+    "3": [
+        "Debt-to-EBITDA",
+        "Current value : 1.06",
+        "vsIndusrty 62.96%",
+        "vsHistory 62.81%"
+    ],
+    "4": [
+        "Interest-Coverage",
+        "Current value : 38.33",
+        "vsIndusrty 63.43%",
+        "vsHistory 99.8%"
+    ],
+    "5": [
+        "Piotroski-F-Score",
+        "Current value : 7",
+        "vsIndusrty 73%",
+        "vsHistory "
+    ],
+    "6": [
+        "Altman-Z-Score",
+        "Current value : 7.6",
+        "vsIndusrty 90%",
+        "vsHistory "
+    ],
+    "7": [
+        "Beneish-M-Score",
+        "-2.66",
+        "Not manipulator : 57.9136690647482%%",
+        "Manipulator : 42.0863309352518%",
+        "Index : 42.086330935251794%"
+    ],
+    "8": [
+        "WACC : 32.73%",
+        "ROIC : 8.79%"
+    ]
+}

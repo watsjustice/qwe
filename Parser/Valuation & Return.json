@@ -1,0 +1,44 @@
+{
+    "42": [
+        "Price-to-Intrinsic-Value-Projected-FCF",
+        "Current value : 2.49",
+        "vsIndusrty 32.18000000000001%",
+        "vsHistory 63.6%"
+    ],
+    "43": [
+        "Price-to-Intrinsic-Value-DCF-(Earnings-Based)",
+        "Current value : 0.9",
+        "vsIndusrty 48.65%",
+        "vsHistory 54.62%"
+    ],
+    "44": [
+        "Price-to-Median-PS-Value",
+        "Current value : 2",
+        "vsIndusrty 24.5%",
+        "vsHistory 66.78999999999999%"
+    ],
+    "45": [
+        "Price-to-Peter-Lynch-Fair-Value",
+        "Current value : 2.48",
+        "vsIndusrty 25%",
+        "vsHistory 45.22%"
+    ],
+    "46": [
+        "Price-to-Graham-Number",
+        "Current value : 7.05",
+        "vsIndusrty 6.450000000000003%",
+        "vsHistory 95.74%"
+    ],
+    "47": [
+        "Earnings-Yield-(Greenblatt)-%",
+        "Current value : 4.04",
+        "vsIndusrty 55.17%",
+        "vsHistory 93.58%"
+    ],
+    "48": [
+        "Forward-Rate-of-Return-(Yacktman)-%",
+        "Current value : 14.17",
+        "vsIndusrty 67%",
+        "vsHistory 75.33%"
+    ]
+}

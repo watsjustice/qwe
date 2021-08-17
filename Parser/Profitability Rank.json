@@ -1,0 +1,56 @@
+{
+    "8": [
+        "WACC-vs-ROIC",
+        "Current value : -ROIC-32.73%WACC-8.79%",
+        "vsIndusrty 42.086330935251794%",
+        "vsHistory #F88A45"
+    ],
+    "9": [
+        "Operating-Margin-%",
+        "Current value : 28.79",
+        "vsIndusrty 96.61%",
+        "vsHistory 58.39%"
+    ],
+    "10": [
+        "Net-Margin-%",
+        "Current value : 25",
+        "vsIndusrty 95.97%",
+        "vsHistory 71.01%"
+    ],
+    "11": [
+        "ROE-%",
+        "Current value : 128.67",
+        "vsIndusrty 99.74%",
+        "vsHistory 100%"
+    ],
+    "12": [
+        "ROA-%",
+        "Current value : 26.11",
+        "vsIndusrty 98.81%",
+        "vsHistory 83.44%"
+    ],
+    "13": [
+        "ROC-(Joel-Greenblatt)-%",
+        "Current value : 276.92",
+        "vsIndusrty 98.77%",
+        "vsHistory 72.71000000000001%"
+    ],
+    "14": [
+        "3-Year-Revenue-Growth-Rate",
+        "Current value : 12.8",
+        "vsIndusrty 82.19%",
+        "vsHistory 55.27%"
+    ],
+    "15": [
+        "3-Year-EBITDA-Growth-Rate",
+        "Current value : 8.2",
+        "vsIndusrty 53.29%",
+        "vsHistory 70.19%"
+    ],
+    "16": [
+        "3-Year-EPS-without-NRI-Growth-Rate",
+        "Current value : 12.5",
+        "vsIndusrty 59.14%",
+        "vsHistory 72.82%"
+    ]
+}
